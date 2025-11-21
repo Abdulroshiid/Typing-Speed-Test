@@ -4,14 +4,26 @@ const sentences = {
     "Coding is fun.",
     "Practice makes perfect.",
     "Never stop learning.",
+    "Great ideas start small.",
+    "Stay focused and keep moving.",
+    "Coding makes the mind sharp.",
   ],
   medium: [
+    "Typing speed improves when you practice a little every day.",
+    "A good developer learns from mistakes and keeps building."
     "JavaScript is a versatile programming language used everywhere.",
     "The quick brown fox jumps over the lazy dog.",
     "Typing speed improves with consistent daily practice.",
+    "Consistency is the secret behind every great achievement."
+    "Clean and readable code makes projects easier to maintain."
   ],
   long: [
+    "Developers who take time to plan their code before typing often create faster, cleaner, and more efficient applications.",
+    "Mastering frontend development requires understanding layouts, animations, user interactions, and how all these elements work together.",
     "Frontend development requires creativity and consistent practice to master layouts and user interactions.",
+    "Success in software development comes from solving problems step by step, breaking big challenges into smaller tasks you can manage easily.",
+    "Learning JavaScript can feel confusing at first, but with patience and daily practice it becomes one of the most enjoyable languages to use.",
+    "To become a skilled programmer, you must constantly challenge yourself with new projects that test your knowledge and creativity.",
     "To become a great developer, you must break down complex problems into simple and manageable steps.",
   ],
 };
