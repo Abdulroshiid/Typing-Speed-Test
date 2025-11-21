@@ -10,12 +10,12 @@ const sentences = {
   ],
   medium: [
     "Typing speed improves when you practice a little every day.",
-    "A good developer learns from mistakes and keeps building."
+    "A good developer learns from mistakes and keeps building.",
     "JavaScript is a versatile programming language used everywhere.",
     "The quick brown fox jumps over the lazy dog.",
     "Typing speed improves with consistent daily practice.",
-    "Consistency is the secret behind every great achievement."
-    "Clean and readable code makes projects easier to maintain."
+    "Consistency is the secret behind every great achievement.",
+    "Clean and readable code makes projects easier to maintain.",
   ],
   long: [
     "Developers who take time to plan their code before typing often create faster, cleaner, and more efficient applications.",
